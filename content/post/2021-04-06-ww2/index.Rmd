@@ -1,0 +1,9 @@
+---
+title: ww2
+author: bushra
+date: '2021-04-06'
+slug: ww2
+categories:
+  - R
+tags: []
+---
